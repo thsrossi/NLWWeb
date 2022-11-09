@@ -9,6 +9,7 @@ This is the website, which is part of a fullstack project.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,6 +25,12 @@ Using API created on NLW: https://github.com/thsrossi/NLWServer
 Users should be able to:
 
 - Create a new pool
+
+### Screenshot
+
+![Mobile](https://user-images.githubusercontent.com/55634966/200838166-10aad44b-e938-44be-bc80-fd2e0c7d62f7.PNG)
+![web](https://user-images.githubusercontent.com/55634966/200838256-b73455de-576e-463a-a27c-2da548d88da8.png)
+
 
 ### Links
 
