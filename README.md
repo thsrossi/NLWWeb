@@ -1,5 +1,4 @@
 # NLWWeb
-# NLW Server
 
 This is a project built in NLW (Next Level Week) by Rocketseat. 
 The NLW consists of a week to deepen the knowledge of the most current technologies on the market.
